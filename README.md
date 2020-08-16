@@ -4,6 +4,10 @@ Afficher un diaporama de photos avec un titre sous la forme d'un carrousel (quan
 
 Une barre d'outils permet à l'utilisateur d'avancer ou de reculer manuellement dans le diaporama, de démarrer ou arrêter le carrousel, etc. Le diaporama réagit également au clavier.
 
+## Screen
+
+![alt tag](https://github.com/rebiichokriJS/JS---Carrousel/blob/master/MOCKUP.png)
+
 ## Consignes
 
 ### HTML
